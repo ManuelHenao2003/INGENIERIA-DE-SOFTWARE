@@ -1,6 +1,6 @@
 # INGENIERIA-DE-SOFTWARE
 
-# Sistema de Control de Préstamos de Equipos 🖥️📦
+# Sistema de Control de Préstamos de Equipos 
 
 Este es un proyecto académico que consiste en el desarrollo de un sistema para gestionar el préstamo de equipos.  
 El objetivo es ofrecer una solución sencilla para registrar usuarios, controlar préstamos y administrarlos de forma eficiente.
