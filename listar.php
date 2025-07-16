@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../../CSS/estilos.css">
 <?php
 session_start();
 if (!isset($_SESSION['usuario']) || $_SESSION['rol'] != 'administrativo') {
